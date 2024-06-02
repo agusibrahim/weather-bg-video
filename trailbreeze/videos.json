@@ -1,0 +1,49 @@
+{
+	"gifs": [
+
+		{
+			"name": "clear",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/clear-day.mp4"
+		},
+		{
+			"name": "clear night",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/clear-night.mp4"
+		},
+		{
+			"name": "rain",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/Rain.mp4"
+		},
+		{
+			"name": "snow",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/snow.mp4"
+		},
+		{
+			"name": "cloudy",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/Cloudy_day.mp4"
+		},
+		{
+			"name": "sleet",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/snow.mp4"
+		},
+		{
+			"name": "wind",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/Wind.mp4"
+		},
+		{
+			"name": "fog",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/Fog.mp4"
+		},
+		{
+			"name": "partly cloudy",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/partly-cloudy-day.mp4"
+		},
+		{
+			"name": "partly cloudy night",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/partly-cloudy-night.mp4"
+		},
+		{
+			"name": "thunderstorm",
+			"url": "https://bitbucket.org/deno750/overdropfiles/raw/HEAD/trailbreeze/Rain.mp4"
+		}
+	]
+}
